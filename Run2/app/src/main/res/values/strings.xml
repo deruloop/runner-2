@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Run2</string>
+    <!-- Login -->
+    <string name="login_name">Nome</string>
+    <string name="login_enter_btn">Accedi</string>
+    <string name="login_pass">Password</string>
+    <string name="login_register">Registrati</string>
+    <!-- Main -->
+    <string name="main_results">Risultati</string>
+    <string name="main_nextraces">Prossime Gare</string>
+    <string name="main_members">Elenco Soci</string>
+    <!-- Race List -->
+    <string name="race_image">Immagine in piccolo della gara</string>
+    <string name="race_name">Nome</string>
+    <string name="race_place">Località</string>
+    <string name="race_date">Data</string>
+    <string name="race_distance">Distanza</string>
+    <!-- Race Detail -->
+    <string name="race_image_big">Immagine ingrandita della gara</string>
+    <string name="race_submit">Iscriviti</string>
+</resources>
